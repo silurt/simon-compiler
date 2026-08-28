@@ -1,4 +1,4 @@
-This is a compiler for [simon lang](https://github.com/puresamari/simon) that compiles the simonlang code into an executable binary.
+This is a compiler for [simon lang](https://github.com/silurt/simon) that compiles the simonlang code into an executable binary.
 
 To compile you need to:
 - Run the compiler:
